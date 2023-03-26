@@ -25,9 +25,6 @@ I'm working on the backend right now because I want to be a full stack developer
 <br/>  
 
 
-## Rapidfire  
-
-
 - 🌱 I’m currently learning React and Node.js  
   
 
