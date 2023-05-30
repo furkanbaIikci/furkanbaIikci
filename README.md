@@ -25,7 +25,7 @@ I'm working on the backend right now because I want to be a full stack developer
 <br/>  
 
 
-- 🌱 I’m currently learning React and Node.js  
+- 🌱 I’m currently learning React and Java Spring Boot  
   
 
 - 📫 How to reach me: cefurkanbalikci@gmail.com  
